@@ -4,8 +4,8 @@
 I'm a passionate **Machine Learning & AI Engineer** dedicated to leveraging advanced technology to solve real-world problems. With a strong foundation in computer science and experience in AI-driven solutions, I enjoy building and optimizing intelligent models that create impactful solutions.
 
 ## 🎓 Education
-- **[ITI]** Artificial Intelligence & Machine Learning Professional Training Program (2024 - Present)
-- **[DEPI]** Microsoft Machine Learning Internship (2024)
+- **ITI** Artificial Intelligence & Machine Learning Professional Training Program (2024 - Present)
+- **DEPI** Microsoft Machine Learning Internship (2024)
 - **Kafr El Sheikh University** | B.Sc. in Artificial Intelligence (2020 - 2024) | GPA: 3.49/4.00
 - **NTI** Cisco Cybersecurity Training (2022)
 
