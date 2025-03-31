@@ -47,3 +47,5 @@ I'm a passionate **Machine Learning & AI Engineer** dedicated to leveraging adva
 - **🐙 GitHub:** [github.com/iDourgham](https://github.com/iDourgham)
 
 Let's collaborate and innovate together! 🚀
+
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent](https://github.com/iDourgham))
